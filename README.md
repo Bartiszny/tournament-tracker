@@ -1,2 +1,2 @@
-# tournamnet-tracker
+# tournamen-tracker
 My project in c# using tutorial
